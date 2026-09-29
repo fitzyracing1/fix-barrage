@@ -1,0 +1,39 @@
+# fix
+
+> TypeScript door for Fix / Fix My Company style repair work. Sister of fixerup (already wrapped).
+
+## Purpose
+Explain fix as the software-repair shelf. Source: fitzyracing1/fix.
+
+## How it works (plain English)
+1. Take a broken software situation.
+2. Repair it.
+3. Keep the TypeScript files in this repo.
+4. Use fixerup if you want the Base44 app face.
+
+## Key ideas
+- Fix (repair)
+- TypeScript source
+- Sister of fixerup
+
+## The actual code
+```
+# source: fitzyracing1/fix
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/fix”
+
+## Decisions the program makes
+- If a reader wants the Base44 app → fixerup
+- If a reader wants this TS shelf → stay here
+
+## What a person would notice
+A named wrap on a repair door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source, or fixerup.
